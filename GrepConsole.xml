@@ -4,6 +4,7 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enabledHighlighting" value="false" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -42,7 +43,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-20097" />
+                              <option name="color" value="-256" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
