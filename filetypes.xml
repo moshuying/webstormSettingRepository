@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="glsl" type="Native" />
       <mapping pattern="TEMPLETE" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
     </extensionMap>
