@@ -4,6 +4,7 @@
       <mapping pattern="deepCopy" type="JavaScript" />
       <mapping ext="glsl" type="Native" />
       <mapping pattern="TEMPLETE" type="PLAIN_TEXT" />
+      <mapping pattern=".buildIgnore" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
