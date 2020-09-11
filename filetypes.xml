@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="deepCopy" type="JavaScript" />
+      <mapping pattern="Util" type="JavaScript" />
       <mapping ext="glsl" type="Native" />
       <mapping pattern="TEMPLETE" type="PLAIN_TEXT" />
       <mapping pattern=".buildIgnore" type="PLAIN_TEXT" />
